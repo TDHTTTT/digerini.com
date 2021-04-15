@@ -31,8 +31,9 @@ sections:
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Don’t Miss Your Opportunity to Help Build a Startup
+
+    
     actions:
       - label: Get Started
         url: '#'
