@@ -361,6 +361,7 @@
 }
 
 .review-footer {
+  direction: rtl;
   -ms-flex-align: center;
   align-items: center;
   display: -ms-flexbox;
@@ -371,7 +372,7 @@
 .review-avatar {
   border-radius: 50%;
   height: 120px;
-  margin-right: 0.9375em;
+  margin-left: 0.9375em;
   width: 120px;
 }
 
@@ -431,6 +432,7 @@
 
 .team-author {
   font-size: 1.2em;
+  font-weight: bold;
   padding-top: 1.25em;
 }
 
