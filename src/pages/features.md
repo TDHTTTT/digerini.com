@@ -6,22 +6,9 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: The Best Features of Your Services
+    title: Only the Calls You Want
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-
-
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Our application screens each incoming call (text) and determines if they are safe for you to engage with. Then the virtual assistant will direct the call to the phone, to voice mail or will block the number and hang up. Our users can opt in for immediate notifications of blocked calls with the audio recording and text transcript of the conversation between the virtual assistant and the caller available for review. The notifications and the end of day blocked call report provide the user an opportunity to review the decisions made by the virtual assistant. This enables the virtual assistant to continuously learn from the individual user’s feedback and thus increases its accuracy and providing a more customized personal experience. The result for the user is a silent phone and superior security for you and your loved ones, where no call is allowed through unless you want it. 
     actions:
       - label: Free Trial
         url: /signup

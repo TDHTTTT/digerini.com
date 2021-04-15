@@ -8,7 +8,7 @@ sections:
     title: Your Peace of Mind Returns with Your next Call
 
     content: >-
-      Digerini™ is the first application to screen and manage both your mobile calls and text messages with a unique combination of Natural Language Process (NLP) and Machine Learning (ML) deployed as a virtual assistant.
+      Digerini™ is the first application to screen and manage both your mobile calls and text messages with a unique combination of Natural Language Process (NLP) and other advanced Machine Learning algorithms deployed as a personalized virtual assistant.
     actions:
       - label: Learn More
         url: /features
@@ -18,16 +18,14 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Our application screens each incoming call (text) and determines if they are safe for you to engage with. Then the virtual assistant will direct the call to the phone, to voice mail or will block the number and hang up. Our users can opt in for immediate notifications of blocked calls with the audio recording and text transcript of the conversation between the virtual assistant and the caller available for review. The notifications and the end of day blocked call report provide the user an opportunity to review the decisions made by the virtual assistant. This enables the virtual assistant to continuously learn from the individual user’s feedback and thus increases its accuracy and providing a more customized personal experience. The result for the user is a silent phone and superior security for you and your loved ones, where no call is allowed through unless you want it.
+
 
     features:
-      - title: Personalized Virtual Assistant
+      - title: A Silent and Secure Phone
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Digerini screens each unkonwn incoming call to determine if you want the call at the moment. Say goodbye to the annoying unwanted calls and voicemails. Rest assured, any call that are from your contact list won't be screened.
         actions:
           - label: Learn More
             url: /features
@@ -35,13 +33,11 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Explainable NLP Decisions
+      - title: Personalized Virtual Assistant
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Digerini features a personalized virtual assistant that can talk to the unknown caller on your behalf and help you decide if the call is safe for you to answer. Overtime, Digerini will  learn from your feedback to better suit your need, just like a real assistant!
         actions:
           - label: Learn More
             url: /features
@@ -49,13 +45,11 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Only the Calls You Want
+      - title: Advanced NLP Algorithms
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Digerini takes advantage of the cutting-edge NLP research to deliver the next-generation voice assistant experience to you. As the scam calls are getting more sophiscated, we stay ahead to protect you.
         actions:
           - label: Learn More
             url: /features
