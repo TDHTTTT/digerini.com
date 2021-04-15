@@ -21,7 +21,7 @@ sections:
       Our application screens each incoming call (text) and determines if they are safe for you to engage with. Then the virtual assistant will direct the call to the phone, to voice mail or will block the number and hang up. Our users can opt in for immediate notifications of blocked calls with the audio recording and text transcript of the conversation between the virtual assistant and the caller available for review. The notifications and the end of day blocked call report provide the user an opportunity to review the decisions made by the virtual assistant. This enables the virtual assistant to continuously learn from the individual user’s feedback and thus increases its accuracy and providing a more customized personal experience. The result for the user is a silent phone and superior security for you and your loved ones, where no call is allowed through unless you want it.
 
     features:
-      - title: The Best Feature of Your Services
+      - title: Personalized Virtual Assistant
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
@@ -35,7 +35,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
+      - title: Explainable NLP Decisions
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
@@ -49,7 +49,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: Only the Calls You Want
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
