@@ -370,9 +370,9 @@
 
 .review-avatar {
   border-radius: 50%;
-  height: 60px;
+  height: 120px;
   margin-right: 0.9375em;
-  width: 60px;
+  width: 120px;
 }
 
 .review-author {
@@ -385,6 +385,62 @@
   .font-fira-sans & {
     font-weight: 600;
   }
+}
+
+// Team block
+.team-block {
+  border: 0;
+  color: $gray-600;
+  font-size: 0.88889em;
+  line-height: 1.66667;
+  .grid {
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .cell {
+    margin: 0 0 1.66667em;
+    max-width: 450px;
+  }
+
+  .card {
+    height: 100%;
+    padding: 1.5em;
+
+  }
+}
+
+@media only screen and (min-width: 901px) {
+  .team-block {
+    .cell:first-child:nth-last-child(3),
+    .cell:first-child:nth-last-child(3) ~ .cell {
+      -ms-flex: 0 0 33.3333%;
+      flex: 0 0 33.3333%;
+      max-width: 33.3333%;
+    }
+  }
+}
+
+.team-header {
+  padding-top: 1.25em;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+
+.team-author {
+  font-size: 1.2em;
+  padding-top: 1.25em;
+}
+
+.team-title {
+  font-size: 1em;
+}
+
+.team-text {
+  padding-top: 1.25em;
+  position: relative;
 }
 
 // Contact block

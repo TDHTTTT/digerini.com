@@ -18,6 +18,7 @@ import SectionHero from './SectionHero';
 import SectionPosts from './SectionPosts';
 import SectionPricing from './SectionPricing';
 import SectionReviews from './SectionReviews';
+import SectionTeam from './SectionTeam';
 import Layout from './Layout';
 
 export {
@@ -41,6 +42,7 @@ export {
     SectionPosts,
     SectionPricing,
     SectionReviews,
+    SectionTeam,
     Layout
 };
 
@@ -65,5 +67,6 @@ export default {
     SectionPosts,
     SectionPricing,
     SectionReviews,
+    SectionTeam,
     Layout
 };

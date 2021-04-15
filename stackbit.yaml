@@ -247,6 +247,7 @@ models:
             - section_pricing
             - section_reviews
             - section_contact
+            - section_team
       - type: model
         name: seo
         models:
@@ -682,6 +683,24 @@ models:
         name: submit_label
         label: Submit Button Label
         required: true
+  section_team:
+    type: object
+    label: Posts List
+    extends:
+      - section
+    fields:
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the section
+      - type: enum
+        name: background
+        label: Background
+        description: The background of the section
+        options:
+          - gray
+          - white
+        default: gray
   action:
     type: object
     label: Action
