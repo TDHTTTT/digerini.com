@@ -250,9 +250,9 @@
   .reviews-block {
     .cell:first-child:nth-last-child(3),
     .cell:first-child:nth-last-child(3) ~ .cell {
-      -ms-flex: 0 0 33.333%;
-      flex: 0 0 33.333%;
-      max-width: 33.333%;
+      -ms-flex: 0 0 50%;
+      flex: 0 0 50%;
+      max-width: 50%;
     }
   }
 }

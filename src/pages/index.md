@@ -63,10 +63,17 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+  - section_id: call-to-action
+    type: section_cta
+    title: Don’t Miss Your Opportunity to Help Build a Startup
+    actions:
+      - label: Get Started
+        url: /signup
+        style: primary
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Testimonials
+    title: Community
     subtitle: >-
       See how our community uses Digerini™ to make life better!
     reviews:
@@ -85,17 +92,13 @@ sections:
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Busy professionals and executives find it very hard to be productive when they are constantly interrupted by their phones. Even a two-second interruption in order to see who is calling can disrupt concentration, slow down productivity, and increase errors while performing a task. They are often forced to silence everything, which results in missed connections with clients DigeriniTM solves this problem by allowing work calls to continue through while hanging up and blocking the potential scam or unwanted calls. This allows reports to be finished or emails to be responded to without the frustration of being interrupted. DigeriniTM gives control back to those that need it in their daily schedules.
-  - section_id: call-to-action
-    type: section_cta
-    title: Don’t Miss Your Opportunity to Help Build a Startup
-    actions:
-      - label: Get Started
-        url: /signup
-        style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
+      - author: Students
+        avatar: images/review3.jpg
+        avatar_alt: Jonquil Von Haggerston's photo
+        content: >-
+          Like executives, the productive time of students needs to be protected. When unwanted calls interrupt homework or assignments, the pull of social media and other apps can turn into an even longer-lasting distraction. Simply going into “do not disturb” isn’t always an option either as cell phones often double as an extra research device. During class, students are able to focus more without their phones vibrating unnecessarily in their pockets. When concentration is ruined while learning new concepts, it severely diminishes the ability to retain the new information being taught. DigeriniTM is the perfect student companion to ensure that they are able to be successful in class.
+
+
 seo:
   title: Digerini - The Best Phone Defender
   description: Digerini is your personal virtual assistant that can screen your calls and get rid of the unwanted calls
