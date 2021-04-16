@@ -33,6 +33,7 @@
             }
         ]
     },
+    "favicon": "images/Favicon-32.png",
     "footer": {
         "sections": [
             {
