@@ -77,7 +77,7 @@ sections:
         content: >-
           Digerini™ can offer parents more peace of mind when deciding whether their children should have cell phones. They need the ability to monitor at least some of their teen’s electronic activity. Young people are vulnerable to online predators and cyber-bullying, both of which are growing at an alarming rate, and the ease of blocking a number and the ability to review the end-of-day call report helps parents understand who is trying to contact their children. Another benefit of having Digerini™ silence unwanted calls and text messages is that it can ensure that the phone itself won’t be a distraction while driving. Digerini™ offers a way for parents to add an extra layer of safety to their children’s digital experience.
       - author: Modern Seniors
-        avatar: images/senior.png
+        avatar: images/senior.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
           Digerini™ can also help protect the independence of seniors while boosting their protection from mobile phone scams. These kinds of phone scams are the most commonly used scams against the elderly and can wipe out a person’s entire life savings in a matter of minutes. While other call screening services simply forward the scammers to voicemail, where they can still threaten or confuse the person on the other end of the line, Digerini™ can prevent that call or message from ever being heard by an unsuspecting senior. Digerini’s intuitive design ensures that seniors can set up this protection and include other family members or caregivers to help monitor their privacy.
@@ -103,7 +103,7 @@ sections:
     team:
       - author: Richard Brazill
         title: CEO
-        avatar: images/richard.jpeg
+        avatar: images/richard.jpg
         avatar_alt: Richard Brazill's photo
         linkedin: https://www.linkedin.com/in/richardbrazill
         content: >-
@@ -111,7 +111,7 @@ sections:
       - author: Mike Sisk
         title: CFO
         linkedin: https://www.linkedin.com/in/mikesisk
-        avatar: images/mike.jpeg
+        avatar: images/mike.jpg
         avatar_alt: Mike Sisk's photo
         content: >-
           Experienced Accounting/Finance executive with 25+ years of experience in Controller and CFO roles. Proven track record of strategic development, process efficiencies, team building, and budget control. Develop/create reliable and scalable processes and systems all while reducing turnover to virtually zero. Budgeting/Forecasting/Modeling, Board/Investor Reporting, SEC/OCC/FRB/NCUA Reporting.
