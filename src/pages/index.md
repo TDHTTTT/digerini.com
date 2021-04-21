@@ -8,7 +8,7 @@ sections:
     title: Your Peace of Mind Returns with Your Next Call
 
     content: >-
-      Digerini™ is the first application to screen and manage both your mobile calls and text messages with a unique combination of Natural Language Process (NLP) and other advanced Machine Learning algorithms deployed as a personalized virtual assistant.
+      Digerini™ is the first application to screen and manage your mobile call security with a unique combination of Natural Language Process (NLP) and other advanced Machine Learning algorithms deployed as a personalized virtual assistant.
     actions:
       - label: Learn More
         url: /features
