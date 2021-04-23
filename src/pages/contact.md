@@ -6,9 +6,7 @@ sections:
     background: gray
     title: Contact
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+      Feel free to let us know any question or concern that you have. We will get back to you as soon as possible.
     form_id: contactForm
     form_fields:
       - input_type: text
@@ -19,14 +17,7 @@ sections:
         name: email
         label: Email
         is_required: true
-      - input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
-        options:
-          - Error on the site
-          - Sponsorship
-          - Other
+
       - input_type: textarea
         name: message
         label: Message

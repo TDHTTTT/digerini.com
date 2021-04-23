@@ -49,8 +49,8 @@
                         "style": "link"
                     },
                     {
-                        "label": "Contact Us",
-                        "url": "/contact",
+                        "label": "Email Us",
+                        "url": "mailto:hello@digerini.com",
                         "style": "link"
                     }
                 ]
