@@ -6,7 +6,7 @@ export default function withPrefix(url) {
         return url;
     }
 
-    if (_.startsWith(url, '#') || _.startsWith(url, 'http://') || _.startsWith(url, 'https://')) {
+    if (_.startsWith(url, '#') || _.startsWith(url, 'http://') || _.startsWith(url, 'https://') || _.startsWith(url, 'mailto')) {
         return url;
     }
     return gatsbyWithPrefix(url);
