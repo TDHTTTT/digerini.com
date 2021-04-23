@@ -22,7 +22,7 @@ sections:
 
     features:
       - title: A Silent and Secure Phone
-        image: images/feature1.png
+        image: images/feature1s.jpg
         image_alt: App preview on a phone and tablet
         content: >-
           Digerini screens each unkonwn incoming call to determine if you want the call at the moment. Say goodbye to the annoying unwanted calls and voicemails. Rest assured, any call that are from your contact list won't be screened.
@@ -34,7 +34,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Personalized Virtual Assistant
-        image: images/feature2.png
+        image: images/feature2s.jpg
         image_alt: App users welcoming a new member
         content: >-
           Digerini features a personalized virtual assistant that can talk to the unknown caller on your behalf and help you decide if the call is safe for you to answer. Overtime, Digerini will  learn from your feedback to better suit your need, just like a real assistant!
@@ -46,7 +46,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Advanced NLP Algorithms
-        image: images/feature3.png
+        image: images/feature3s.jpg
         image_alt: App user profile preview
         content: >-
           Digerini takes advantage of the cutting-edge NLP research to deliver the next-generation voice assistant experience to you. As the scam calls are getting more sophiscated, we stay ahead to protect you.
@@ -134,7 +134,7 @@ seo:
       value: Digerini is your personal virtual assistant that can screen your calls and get rid of the unwanted calls
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: images/Logo-600-TM.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -144,7 +144,7 @@ seo:
     - name: 'twitter:description'
       value: Digerini is your personal virtual assistant that can screen your calls and get rid of the unwanted calls
     - name: 'twitter:image'
-      value: images/hero.png
+      value: images/Logo-600-TM.png
       relativeUrl: true
 template: landing
 ---
