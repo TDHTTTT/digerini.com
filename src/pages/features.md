@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/feature1.jpg
     image_alt: App preview on a phone and tablet
     title: Only the Calls You Want
     content: >-
