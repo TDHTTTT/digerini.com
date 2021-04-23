@@ -54,7 +54,7 @@
                         "style": "link"
                     },
                     {
-                        "label": "Contact",
+                        "label": "Contact Us",
                         "url": "/contact",
                         "style": "link"
                     }
@@ -78,6 +78,14 @@
                         "style": "link",
                         "has_icon": true,
                         "icon": "linkedin",
+                        "icon_position": "left"
+                    },
+                    {
+                        "label": "Facebook",
+                        "url": "https://facebook.com/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "facebook",
                         "icon_position": "left"
                     },
                     {
@@ -108,7 +116,7 @@
                 "submit_label": "Subscribe"
             }
         ],
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Terms of Service",
