@@ -1,9 +1,8 @@
 ---
 title: About Us
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-image: images/about.jpg
+  Your Peace of Mind Returns with Your Next Call.
+image: images/Logo-600-TM.png
 image_alt: Team members in a conference room
 seo:
   title: About Us
@@ -19,7 +18,7 @@ seo:
       value: This is the about page
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/Logo-600-TM.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -29,11 +28,9 @@ seo:
     - name: 'twitter:description'
       value: This is the about page
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/Logo-600-TM.png
       relativeUrl: true
 template: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+Digerini™ is the first application to screen and manage both your mobile calls and text messages with a unique combination of Natural Language Process (NLP) andMachine Learning (ML) deployed as a virtual assistant. Our application screens each incoming call (text) and determines if they are safe for you to engage with. Then the virtual assistant will direct the call to the phone, to voice mail or will block the number and hang up. Our users can opt in for immediate notifications of blocked calls with the audio recording and text transcript of the conversation between the virtual assistant and the caller available for review. The notifications and the end of day blocked call report provide the user an opportunity to review the decisions made by the virtual assistant. This enables the virtual assistant to continuously learn from the individual user’s feedback and thus increases its accuracy and providing a more customized personal experience. The result for the user is a silent phone and superior security for you and your loved ones, where no call is allowed through unless you want it.
