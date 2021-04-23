@@ -66,7 +66,7 @@ sections:
         style: primary
   - section_id: reviews
     type: section_reviews
-    background: white
+    background: gray
     title: Community
     subtitle: >-
       See how our community uses Digerini™ to make life better!
@@ -91,10 +91,7 @@ sections:
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Like executives, the productive time of students needs to be protected. When unwanted calls interrupt homework or assignments, the pull of social media and other apps can turn into an even longer-lasting distraction. Simply going into “do not disturb” isn’t always an option either as cell phones often double as an extra research device. During class, students are able to focus more without their phones vibrating unnecessarily in their pockets. When concentration is ruined while learning new concepts, it severely diminishes the ability to retain the new information being taught. DigeriniTM is the perfect student companion to ensure that they are able to be successful in class.
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
+
 
   - section_id: team
     type: section_team
