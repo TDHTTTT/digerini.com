@@ -3,7 +3,7 @@ title: About Us
 subtitle: >-
   Your Peace of Mind Returns with Your Next Call.
 image: images/Logo-600-TM.png
-image_alt: Team members in a conference room
+image_alt: Digerini Logo
 seo:
   title: About Us
   description: This is the about page
