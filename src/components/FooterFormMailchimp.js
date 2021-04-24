@@ -70,7 +70,7 @@ const CustomForm = ({ status, message, onValidated }) => {
         "text-decoration": "none",
         "-webkit-transition": "opacity .15s ease-in-out",
         "transition": "opacity .15s ease-in-out" }} onClick={submit}>
-        Submit
+        Subscribe
       </button>
     </div>
   );
