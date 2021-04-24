@@ -51,7 +51,7 @@ const CustomForm = ({ status, message, onValidated }) => {
       />
       <br />
       <button style={{ 
-        fontSize: "0.88889em", 
+        fontSize: "1em", 
         background: "#9051c4",
         "-ms-flex-align": "center",
         "align-items": "center",
@@ -66,7 +66,7 @@ const CustomForm = ({ status, message, onValidated }) => {
         "-ms-flex-pack": "center",
         "justify-content": "center",
         "line-height": "1.5",
-        "padding": "0.5em 1.875em",
+        "padding": "0.25em 0.94em",
         "text-decoration": "none",
         "-webkit-transition": "opacity .15s ease-in-out",
         "transition": "opacity .15s ease-in-out" }} onClick={submit}>
