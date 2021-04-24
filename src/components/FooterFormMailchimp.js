@@ -3,17 +3,14 @@ import _ from 'lodash';
 import MailchimpSubscribe from "react-mailchimp-subscribe"
 
 import {markdownify} from '../utils';
-import FormField from './FormField';
 
 const CustomForm = ({ status, message, onValidated }) => {
-  let email, name;
+  let email;
   const submit = () =>
     email &&
-    name &&
     email.value.indexOf("@") > -1 &&
     onValidated({
       EMAIL: email.value,
-      NAME: name.value
     });
 
   return (
@@ -38,13 +35,6 @@ const CustomForm = ({ status, message, onValidated }) => {
       )}
       <input
         style={{ fontSize: "0.88889em", padding: 5 }}
-        ref={node => (name = node)}
-        type="text"
-        placeholder="Your Name"
-      />
-      <br />
-      <input
-        style={{ fontSize: "0.88889em", padding: 5 }}
         ref={node => (email = node)}
         type="email"
         placeholder="Your Email"
@@ -61,7 +51,6 @@ const CustomForm = ({ status, message, onValidated }) => {
         "color": "#fff",
         "cursor": "pointer",
         "display": "-ms-inline-flexbox",
-        "display": "inline-flex",
         "font-weight": "bold",
         "-ms-flex-pack": "center",
         "justify-content": "center",
@@ -103,3 +92,4 @@ export default class FooterFormMailchimp extends React.Component {
         );
     }
 }
+
