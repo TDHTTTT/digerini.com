@@ -94,7 +94,7 @@
                 ]
             },
             {
-                "type": "footer_form",
+                "type": "footer_form_mailchimp",
                 "title": "Subscribe",
                 "content": "Stay up to date with our latest developments.",
                 "form_id": "contactForm",
