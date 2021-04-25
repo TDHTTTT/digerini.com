@@ -4,6 +4,7 @@ import BlogPostFooter from './BlogPostFooter';
 import CtaButtons from './CtaButtons';
 import Footer from './Footer';
 import FooterForm from './FooterForm';
+import FooterFormMailchimp from './FooterFormMailchimp';
 import FooterNav from './FooterNav';
 import FooterText from './FooterText';
 import FormField from './FormField';
@@ -28,6 +29,7 @@ export {
     CtaButtons,
     Footer,
     FooterForm,
+    FooterFormMailchimp,
     FooterNav,
     FooterText,
     FormField,
@@ -53,6 +55,7 @@ export default {
     CtaButtons,
     Footer,
     FooterForm,
+    FooterFormMailchimp,
     FooterNav,
     FooterText,
     FormField,
