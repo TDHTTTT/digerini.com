@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import {graphql} from 'gatsby';
+import Iframe from 'react-iframe'
 
 import {Layout} from '../components/index';
 import {htmlToReact, withPrefix} from '../utils';
@@ -38,6 +39,13 @@ export default class Page extends React.Component {
                   <div className="post-content">
                     {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                   </div>
+                  {_.get(this.props, 'pageContext.frontmatter.iframe', null) && (
+                  <div className="post-iframe">
+                    <Iframe url={withPrefix(_.get(this.props, 'pageContext.frontmatter.iframe', null))} 
+                            className="post-iframe-content"
+                            />
+                  </div>
+                  )}
                 </article>
               </div>
             </div>

@@ -20,6 +20,21 @@
     border-radius: $border-radius;
   }
 }
+.post-iframe {
+  margin-top: 1.5em;
+  overflow: hidden;
+  padding-top: 150%;
+  position: relative;
+}
+.post-iframe-content {
+  border: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+
+}
 
 // Single post
 .post-full {
