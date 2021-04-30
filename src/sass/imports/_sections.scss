@@ -35,6 +35,7 @@
 .block-buttons {
   -ms-flex-align: center;
   align-items: center;
+
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
@@ -176,7 +177,7 @@
 // Cta block
 .cta-block {
   .block-title {
-    margin-bottom: 0.25em;
+    margin-bottom: 1.25em;
   }
 
   .block-buttons {

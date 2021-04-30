@@ -13,12 +13,14 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Don’t Miss Your Opportunity to Help Build a Startup
-
     
     actions:
-      - label: Get Started
-        url: '#'
-        style: secondary
+      - label: Sign Up
+        url: /signup
+        style: primary
+      - label: Survey
+        url: /signup
+        style: primary
 seo:
   title: Features
   description: This is the features page

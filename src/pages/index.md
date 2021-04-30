@@ -61,9 +61,13 @@ sections:
     type: section_cta
     title: Don’t Miss Your Opportunity to Help Build a Startup
     actions:
-      - label: Get Started
+      - label: Sign Up
         url: /signup
         style: primary
+      - label: Survey
+        url: /signup
+        style: primary
+      
   - section_id: reviews
     type: section_reviews
     background: gray
