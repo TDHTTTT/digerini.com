@@ -3,10 +3,13 @@ const siteMetadata = require('./site-metadata.json')
 module.exports = {
     pathPrefix: '/',
     siteMetadata: siteMetadata,
+    siteUrl: `https://www.digerini.com`,
     plugins: [
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
+        `gatsby-plugin-sitemap`,
+        'gatsby-plugin-robots-txt',
         {
             resolve: `gatsby-source-filesystem`,
             options: {
