@@ -3,7 +3,7 @@ title: Survey
 subtitle: >-
   We love hearing your opinions
 image: images/1.jpg
-image_alt: Office desk top view
+image_alt: A book on top of a desk
 iframe: "https://docs.google.com/forms/d/e/1FAIpQLSd4e-eq4c_Gj6khTZKsdoQDULyjdf5iSqDjmCYNf4YqvP2okQ/viewform?embedded=true"
 seo:
   title: Survey
