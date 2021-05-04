@@ -16,7 +16,11 @@
                 "url": "/features",
                 "style": "link"
             },
-
+            {
+                "label": "Survey",
+                "url": "/survey",
+                "style": "link"
+            },
             {
                 "label": "Sign Up",
                 "url": "/signup",

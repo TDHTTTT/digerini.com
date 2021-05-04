@@ -19,7 +19,7 @@ sections:
         url: /signup
         style: primary
       - label: Survey
-        url: /signup
+        url: /survey
         style: primary
 seo:
   title: Features
