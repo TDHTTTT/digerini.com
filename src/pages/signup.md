@@ -7,7 +7,7 @@ image_alt: Office desk top view
 iframe: "https://docs.google.com/forms/d/e/1FAIpQLSc_cC_cIRBHO8vvHAeV9XGuG5JduPENF6usju4hRTPAbsT9nQ/viewform?embedded=true"
 seo:
   title: Sign Up
-  description: This is the sign up page
+  description: This is the sign up page for Digerini
   extra:
     - name: 'og:type'
       value: website
