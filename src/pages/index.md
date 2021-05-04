@@ -25,7 +25,7 @@ sections:
         image: images/feature1s.jpg
         image_alt: App preview on a phone and tablet
         content: >-
-          Digerini screens each unkonwn incoming call to determine if you want the call at the moment. Say goodbye to the annoying unwanted calls and voicemails. Rest assured, any call that are from your contact list won't be screened.
+          Digerini screens each unknown incoming call to determine if you want the call at the moment. Say goodbye to the annoying unwanted calls and voicemails. Rest assured, any call that are from your contact list won't be screened.
         actions:
           - label: Learn More
             url: /features
@@ -125,14 +125,14 @@ sections:
           Machine learning researcher and enthusiastic app developer. Proficient in many programming languages and libraries: Python/C++/JavaScript, PyTorch/TensorFlow. With experience in both academia and industry, constantly applying cutting-edge research to solve practical problems.
 
 seo:
-  title: Digerini - The Best Phone Defender
+  title: Digerini - The Best Phone Call Defender App
   description: Digerini is your personal virtual assistant that can screen your calls and get rid of the unwanted calls
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Digerini - The Best Phone Defender
+      value: Digerini - The Best Phone Call Defender App
       keyName: property
     - name: 'og:description'
       value: Digerini is your personal virtual assistant that can screen your calls and get rid of the unwanted calls
@@ -144,7 +144,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Digerini - The Best Phone Defender
+      value: Digerini - The Best Phone Call Defender App
     - name: 'twitter:description'
       value: Digerini is your personal virtual assistant that can screen your calls and get rid of the unwanted calls
     - name: 'twitter:image'
