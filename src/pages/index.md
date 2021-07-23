@@ -13,6 +13,9 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+    video: https://www.youtube.com/embed/T_FiI_8W7Rw
+    video_alt: Digerini Video
+
   - section_id: features
     type: section_features
     background: gray
