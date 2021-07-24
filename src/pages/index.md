@@ -15,7 +15,8 @@ sections:
         style: primary
     video: https://www.youtube.com/embed/T_FiI_8W7Rw
     video_alt: Digerini Video
-    video_description: More welcoming voice is coming!
+    video_description: Virtual assistant voice for demonstration purposes only
+ 
 
   - section_id: features
     type: section_features
