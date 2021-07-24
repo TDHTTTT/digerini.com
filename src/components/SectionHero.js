@@ -29,6 +29,25 @@ export default class SectionHero extends React.Component {
                     </div>
                     )}
                   </div>
+                  {_.get(section, 'video', null) && (
+                    <div className="cell block-video">
+                        <iframe
+                            width="560"
+                            height="315"
+                            src={withPrefix(_.get(section, 'video', null))}
+                            title={withPrefix(_.get(section, 'video_alt', null))}
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            frameBorder="0"
+                            webkitallowfullscreen="true"
+                            mozallowfullscreen="true"
+                            allowFullScreen
+                        />
+                    </div>
+                  )}
+                  {_.get(section, 'video_description', null) && (
+                  <h6 clssName="block-description">{_.get(section, 'video_description', null)}</h6>
+                  )}
+
                 </div>
               </div>
             </section>
