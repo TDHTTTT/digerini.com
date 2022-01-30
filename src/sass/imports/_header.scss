@@ -56,14 +56,15 @@
 
   .site-navigation {
     .current-menu-item {
-      color: $gray-500;
+      color: $color-primary;
+      font-weight: 900;
     }
 
     a:not(.button) {
       color: inherit;
   
       &:hover {
-        color: $gray-500;
+        color: $color-secondary;
       }
     }
   }
