@@ -101,10 +101,14 @@ sections:
         content: >-
           Like executives, the productive time of students needs to be protected. When unwanted calls interrupt homework or assignments, the pull of social media and other apps can turn into an even longer-lasting distraction. Simply going into “do not disturb” isn’t always an option either as mobile phones often double as an extra research device. During class, students are able to focus more without their phones vibrating unnecessarily in their pockets. When concentration is ruined while learning new concepts, it severely diminishes the ability to retain the new information being taught. Digerini™ is the perfect student companion to ensure that they are able to be successful in class.
 
+  - section_id: recent-posts
+    type: section_posts
+    background: white 
+    title: Latest Posts
 
   - section_id: team
     type: section_team
-    background: white
+    background: grey 
     title: Team
     team:
       - author: Richard Brazill
