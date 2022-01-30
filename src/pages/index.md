@@ -126,7 +126,7 @@ sections:
         content: >-
           Experienced Accounting/Finance executive with 25+ years of experience in Controller and CFO roles. Proven track record of strategic development, process efficiencies, team building, and budget control.
       - author: Tony Tong
-        title: Lead Developer
+        title: Co-Founder/Lead Developer
         avatar: images/tony.jpg
         avatar_alt: Tony Tong's photo
         linkedin: https://www.linkedin.com/in/tdhttt
