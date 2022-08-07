@@ -13,8 +13,8 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    video: https://www.youtube.com/embed/T_FiI_8W7Rw
-    video_alt: Digerini Video
+    video: https://player.vimeo.com/video/737235335?h=d3892b4be1 
+    video_alt: Digerini Demo Video
     video_description: Virtual assistant voice for demonstration purposes only
  
 
